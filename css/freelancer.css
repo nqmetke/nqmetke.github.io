@@ -478,7 +478,13 @@ fieldset[disabled] .btn-success.active {
   border-radius: 8px;
   border: 10px solid white;
 }
-.portfolio-placeholer{
+.portfolio-placeholder{
   text-align: center;
-
+  font-size: 25px;
+}
+.social-btn{
+  transition: .3s linear;
+}
+:hover.social-btn{
+  color: white;
 }
