@@ -1,5 +1,7 @@
 // Freelancer Theme JavaScript
 
+window.redirect('http://nqmetke.github.io');
+
 (function($) {
     "use strict"; // Start of use strict
 
