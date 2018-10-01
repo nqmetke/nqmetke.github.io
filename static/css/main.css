@@ -25,3 +25,13 @@ body,html {
   .row-obj{
       padding: 1em;
   }
+  a{
+      text-decoration: none;
+      color: rgb(72, 141, 72);
+  }
+  img{
+      display: block;
+      width: 15em;
+      border-radius: 15px;
+      border: rgb(32, 32, 32) 15px solid;
+  }
