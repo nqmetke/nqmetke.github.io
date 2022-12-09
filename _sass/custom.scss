@@ -1,5 +1,5 @@
-html, body{
-    height: 100%;
+html{
+    height: 100vh;
 }
 .front-page{
     text-align: center;
@@ -9,4 +9,18 @@ html, body{
     justify-content: center;
     align-items: center;
     flex-direction: column;
+}
+
+.toolbar{
+    a{
+        padding: 10px;
+    }
+}
+
+.name{
+    color: rgb(131, 131, 255)
+}
+
+.card{
+    
 }
